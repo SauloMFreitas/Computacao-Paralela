@@ -2,6 +2,7 @@
  Repositório para armazenar os códigos feitos para atividades de Computação Paralela na PUC-MINAS no semestre 2024/2
 
 obs.: tarefas 1 e 5 foram quizzes online
+obs2.: todas as tarefas foram realizadas em grupo de 3 ou 4 pessoas
 
 ## Tarefa 2
 Modifique o seguinte código, utilizando o padrão MAP (e outros comandos do OpenMP),
